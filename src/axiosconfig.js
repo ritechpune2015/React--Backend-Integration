@@ -1,7 +1,7 @@
 import axios from "axios";
 const api=axios.create(
     {
-        baseURL:"https://demoapi.ritechpune.com/api/CustomerAPI"
+        baseURL:"https://demoapi.ritechpune.com/api/"
     }
 );
 
